@@ -1,0 +1,8 @@
+site_name: "ehwuascht"
+site_description: "Documentation for ehwuascht"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
